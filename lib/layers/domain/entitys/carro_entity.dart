@@ -11,8 +11,8 @@ class CarroEntity {
   }
 
   setValorCarro() {
-    if (this.valorReal > 10000.00) {
-      this.valor * 2;
+    if (valorReal > 10000.00) {
+     valor *= 2;
     }
   }
 }
