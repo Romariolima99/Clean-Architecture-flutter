@@ -1,4 +1,4 @@
-import 'package:clean_arquiteture/layers/domain/data/datasources/get_carros_por_cor_datasource.dart';
+import 'package:clean_arquiteture/layers/data/datasources/get_carros_por_cor_datasource.dart';
 import 'package:clean_arquiteture/layers/domain/entitys/carro_entity.dart';
 import 'package:clean_arquiteture/layers/domain/repositories/get_carros_por_cor_repository.dart';
 

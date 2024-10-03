@@ -1,5 +1,5 @@
-import 'package:clean_arquiteture/layers/domain/data/datasources/local/get_carros_por_local_datasource_imp.dart';
-import 'package:clean_arquiteture/layers/domain/data/repositories/get_carros_por_cor_repository_imp.dart';
+import 'package:clean_arquiteture/layers/data/datasources/local/get_carros_por_local_datasource_imp.dart';
+import 'package:clean_arquiteture/layers/data/repositories/get_carros_por_cor_repository_imp.dart';
 import 'package:clean_arquiteture/layers/domain/entitys/carro_entity.dart';
 import 'package:clean_arquiteture/layers/domain/usecases/get_carros_por_cor/get_carros_por_cor_usecase.dart';
 import 'package:clean_arquiteture/layers/domain/usecases/get_carros_por_cor/get_carros_por_cor_usecase_imp.dart';

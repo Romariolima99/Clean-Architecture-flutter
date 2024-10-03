@@ -1,4 +1,4 @@
-import 'package:clean_arquiteture/layers/domain/data/dto/carro_dto.dart';
+import 'package:clean_arquiteture/layers/data/dto/carro_dto.dart';
 import 'package:clean_arquiteture/layers/domain/entitys/carro_entity.dart';
 import 'package:clean_arquiteture/layers/domain/repositories/get_carros_por_cor_repository.dart';
 import 'package:flutter_test/flutter_test.dart';

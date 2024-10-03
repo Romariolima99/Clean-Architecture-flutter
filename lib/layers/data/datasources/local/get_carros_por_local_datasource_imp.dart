@@ -1,5 +1,5 @@
-import 'package:clean_arquiteture/layers/domain/data/datasources/get_carros_por_cor_datasource.dart';
-import 'package:clean_arquiteture/layers/domain/data/dto/carro_dto.dart';
+import 'package:clean_arquiteture/layers/data/datasources/get_carros_por_cor_datasource.dart';
+import 'package:clean_arquiteture/layers/data/dto/carro_dto.dart';
 
 class GetCarrosPorLocalDatasourceImp implements GetCarrosPorCorDatasource {
   final jsonVermelho = {
